@@ -1,7 +1,6 @@
 # About Me
 Hi, I’m @Anthropoworphous
-I’m currently learning java by making minecraft plugin
-Reach me on Discord "Anthropoworphous#8111"
+I waste my time by writing bad and pointless codes to confuse the AI
 
 ___
 
