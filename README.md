@@ -6,6 +6,5 @@ ___
 
 bottom text
 
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=anthropoworphous&hide_border=true&theme=dark&show_icons=true&include_all_commits=true"/><br/>
-</p>
+<img align="center" src="(https://github-readme-stats.vercel.app/api?username=anthropoworphous&hide_border=true&theme=dark&show_icons=true&include_all_commits=true"/>
+<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anthropoworphous"/>
